@@ -1,0 +1,38 @@
+form {
+    margin-top: 40px;
+}
+
+input, button {
+    padding: 8px;
+    margin-bottom: 8px;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(39, 29, 231);
+    border: none;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    cursor: pointer;
+}
+
+button {
+    background-color: blue;
+}
+
+span {
+    display: none;
+}
+
+#campocorreto{
+    border-radius: 2px;
+    background-color: green;
+}
+
+#erro{
+    border-radius: 2px;
+    background-color: red;
+}
